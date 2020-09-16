@@ -39,6 +39,7 @@ body {
   right: 10px;
   bottom: 10px;
   width: 416px;
+  max-height: 629px;
   height: calc(100% - 10px);
   background: #ffffff;
   box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.08);
